@@ -10,6 +10,18 @@ Smart Logic is located on the right side nav under the "Advanced" tab.
 
 We offer 6 widgets to help you get the most of your collection:
 
+- Add on
+
+- Conflict
+
+- Preset
+
+- Remove
+
+- Switch
+
+- Add only
+
 ---
 
 #### For Example:
@@ -28,10 +40,10 @@ Now let's also say that your assets include hands for each of these bodies.
 
 - The first conflict we see is that a Dark Body CANNOT have an asian hand. This will basically ruin the NFT. 
 
-To mitigate this conflict, we created Smart Logic. Using a basic if statement system, you can create the perfect NFT with unlimited potential. 
+To mitigate these problems, we created Smart Logic. Using a basic if statement system, you can create the perfect NFT with unlimited potential. 
 
 #### Features
 
-Each IF statement module allows you to select multiple images or single directories. This makes it easier for you to select multiple trait categories.
+Each IF statement module allows you to select multiple images or single directories. This makes it easier for you to create complex statement logic.
 
 ![NFT Generator Image Modal](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Smart%20Logic%20Image%20Popover.png)

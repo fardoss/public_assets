@@ -18,4 +18,4 @@ If we have another trait called "Eyes", that has the same requirements, then it 
 
 #### End Result
 
-When the generator finishes, if the preset "Hands" is in the image, then we leave it is left alone. If the preset "Hands" is NOT included in the image and sleeves is, then we remove the sleeves trait from the image because Sleeves requires Hands.
+When the generator finishes, if the preset "Hands" is in the image, then we leave it alone. If the preset "Hands" is NOT included in the image and sleeves is, then we remove the sleeves trait from the image because Sleeves is a preset of Hands.

@@ -8,4 +8,4 @@ After you upload your assets, you can set the requirements on the left side nav.
 
 In this example, everything is required except dynasty and clothes. Every NFT will have all the required assets but only some of them will have the trait dynasty or clothes.
 
-This helps you create rare NFT's as well as improve the overall quality of each NFT.
+This helps you create rare NFT's as well as improve the overall quality of each NFT you generate.

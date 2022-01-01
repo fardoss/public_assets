@@ -1,6 +1,6 @@
 # Remove Traits
 
-If you want to remove a specific attribute from your metadata, you can easily choose the trait type and remove them from the entire collection.
+If you want to remove a specific attribute from your metadata, you can easily choose the trait type and remove them for each of your NFT in your collection.
 
 ![Remove Metadata Trait Attribute](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Remove%20Traits%201.png)
 

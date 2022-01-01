@@ -1,22 +1,22 @@
 # Merge
 
-Sometimes you might want to generate different versions of your NFT and choose the best ones from each. 
+Sometimes you might want to generate different collections from the same asset folders.
 
-Now that you have chosen all the NFT's you want, you still have to get them ready for production.
+To get the collection ready, you will have to merge all of them together into one finished collection.
 
 ![NFT Generator Combine folders](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/merge%20smart%20tools%201.png)
 
-Merge allows to to merge multiple folders together. All the images and json from one folder will be added.
+Merge allows to to merge multiple collections together. All the images and json from one folder will be added.
 
 #### File structure
+
+All the folders MUST include an images and json folder and the NFT's and json MUST be connected correctly.
 
 ![Merge NFT File structure](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Merge%20Folder%20Structure.png)
 
 #### Process
 
 Add as many collection folders as you want.
-
-- Make sure that they each have an image and json folder.
 
 Choose the output location and click "Start Merge".
 
@@ -30,6 +30,6 @@ Your merged assets will all be copied to the output location you entered startin
 
 - We do not move or remove any of the images or json in your collection folders you want to merge.
   
-  - We just copy the file to the new location and change the name and json data to fit the final collection
+  - We just copy the file to the new location and change the name and json data to fit the final collection ouput.
 
 - Your json data will also update with the correct image and your traits will be synced from each of your asset folders to their new file names.

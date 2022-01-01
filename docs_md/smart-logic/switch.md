@@ -11,7 +11,3 @@ The purpose for this is to give you more control over the rarity of your NFTs. I
 If a fiery fog background is included or dark grey, deep orange or grey images are included, then Fardoss will randomly switch with another image or folder. In this case, it is the Background Folder.
 
 ![Switch Logic - Fardoss NFT](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Logic%20Switch%20End.png)
-
-
-
-

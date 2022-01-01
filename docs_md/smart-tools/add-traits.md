@@ -4,7 +4,7 @@ Sometimes, you might want to add your own traits to your NFT collection meta dat
 
 ![Add Traits - NFT Metadata](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Add%20Traits%20Smart%20Tools%201.png)
 
-You can specify the new traits you want and add as many as you want.
+You can add as many new traits you want.
 
 ![NFT Add Metadata Traits](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Add%20Traits%202.png)
 

@@ -4,9 +4,9 @@ Fardoss allows you to generate thousands of NFT's with a click of a button.
 
 #### Adding your assets
 
-Please note, You must [organize your assets ](https://fardoss.com/docs/setting-up) before you can use them. After you have organized them, click "Upload" on the left side nav. 
+Please note, You must [organize your assets ](https://fardoss.com/docs/setting-up) before you can upload them. 
 
-FYI, we do not upload your assets to any online cloud storage. To offer the best privacy, all generations are kept locally unless you want to Upload to Pinata.
+FYI, we do not upload your assets to any online cloud storage. To offer the best privacy, all generations are kept locally unless you want to [Upload to Pinata](https://www.fardoss.com/docs/generate-nfts/uploading-to-pinata).
 
 #### Collection Details
 
@@ -16,7 +16,7 @@ On the right side nav, set the
 
 - Description
 
-- External URL,
+- External URL
 
 - Size
 
@@ -32,7 +32,7 @@ The collection size will tell us how many NFT's we need to generate. For example
 
 #### Threads
 
-Threads tell us how many images we should generate at the same time. So if you set the threads to 10, 10 images (depending on your computer). will generate at the same time.
+Threads tell us how many NFT's we should generate at the same time. So if you set the threads to 10, 10 images (depending on your computer). will generate at the same time.
 
 ---
 
@@ -44,7 +44,7 @@ This field tells us where we need to create the folder "asset_generator". For ex
 
 #### Generating
 
-After you finished generating your NFT's, you should see a new folder called asset_generator. This is the output structure that we use. You will find that NFT's and their metadata are separate. We do however connect them using their file number.
+After you finished generating your collection, you should see a new folder called asset_generator. This is the output structure that we use. You will find that NFT's and their metadata are separate. We do however connect them using their file number.
 
 ![NFT Generator Output Location](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Output%20Folder%20Structure.png)
 
@@ -65,7 +65,7 @@ So the metadata in images/0.jpeg will be in json/0 and so on. The JSON data will
 }
 ```
 
-Attributes are an array of different traits included in the image. Sometimes, some images may include more attributes than others, so the size of this array varies. 
+Attributes are an array of different traits included in the image. Sometimes, some NFT's may include more attributes than others, so the size of this array varies. 
 
 Traits are found in your folder system (ie: 1. Background). 
 
@@ -77,6 +77,6 @@ Generated NFT's are always
 
 - Less than 1 MB
 
-- High Resolution and Quality
+- High Resolution
 
 - JPEG's

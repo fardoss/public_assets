@@ -45,4 +45,8 @@ When we change the trait type for Weapon to start with 186, the attributes in yo
 ...
 ```
 
+#### Quick tips:
 
+- Feel free to use spaces within your values. We will include those as well.
+  
+  - So the above weapon value with a space would be "186 weapon samurai swords"

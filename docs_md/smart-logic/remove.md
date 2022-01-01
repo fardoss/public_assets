@@ -1,10 +1,10 @@
 # Remove
 
-Remove allows you to use text search to find and remove specific rows.
+Remove allows you to use text search to find and remove specific assets.
 
 ![Smart Logic Remove Widget](https://s3.amazonaws.com/cdn.fardoss.com/docs_content/Remove%20Logic%20Start.png)
 
-IF remove offers 3 options:
+Remove offers 3 options:
 
 1. Starts with
 
@@ -20,7 +20,7 @@ You can also add folders and Fardoss will automatically know if that trait is in
 
 #### For example:
 
-We have 3 points:
+We have 3 if statements:
 
 1. If an image ends with viking
 
@@ -28,8 +28,6 @@ We have 3 points:
 
 3. AND a folder name includes eyes
 
-If these 3 points are met, Fardoss will remove
+If these 3 statements are met, Fardoss will remove
 
 1. Folder that starts with background
-
-

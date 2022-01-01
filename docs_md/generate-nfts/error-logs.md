@@ -75,5 +75,3 @@ Here is an example:
    }
 ]
 ```
-
-

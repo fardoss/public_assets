@@ -1,5 +1,7 @@
 # One of Ones Metadata
 
+We automatically generate the metadata for you custom NFT's use the file name. 
+
 The metadata for custom images are pretty much the same but the main difference is the rarity attribute. 
 
 All custom images have

@@ -6,7 +6,7 @@ This statement is incredibly powerful. Add only specific images/folders if and o
 
 #### For example:
 
-Let's say we have different body colors like
+Let's say we have different body colors in our trait folders "Bodies":
 
 1. Dark
 
@@ -18,7 +18,7 @@ Let's say we have different body colors like
 
 5. Alien
 
-We also have hands for every one of these body colors. 
+We also have another trait folder "Hands". Hands also has different hand colors.
 
 The main conflict here is that we cannot have a purple Hand with a dark Body. Using Add only, we can easily fix this. 
 
@@ -26,6 +26,6 @@ The main conflict here is that we cannot have a purple Hand with a dark Body. Us
 
 First, we set the if statement to include all Dark body. We then add ONLY the images in our Hands Folder that match the body color. In this case, we only choose the Dark hands.
 
-During the generation, if Fardoss finds that a specific body Dark is chosen and a hand trait is included that does NOT match the select ones in the THEN statement, then Fardoss will automatically replace it with the ones approved by you.
+During the generation, if Fardoss finds that a specific body Dark is chosen and a hand trait is included that does NOT match the select ones in the THEN statement, then it will automatically replace it with the ones chosen by you.
 
-This allows you to improve your entire NFT collection without any manual work. The application of Add only are endless and can perfect your NFT collection without working about conflicts like these. 
+This allows you to improve your entire NFT collection without any manual work. The use of Add only are endless and can perfect your NFT collection without working about conflicts like these. 
