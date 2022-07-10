@@ -12,4 +12,4 @@ The numbers in the beginning of each trait folder determine the placement of how
 
 The trait names ie: 1. Background are used to create the attributes within your metadata. Don't worry, we remove all numbers automatically so your traits within your metadata stay super clean.
 
-[Download an example](https://fardoss.com/downloads/example-assets-folder)
+[Download an example](https://fardoss.com/download/example-assets-folder)
